@@ -1,0 +1,38 @@
+.profile-avatar-replace {
+    position: absolute;
+    left: 0;
+    top: 32px;
+    cursor: pointer;
+}
+
+.profile-avatar-replace-style {
+    height: 50px;
+    width: 50px;
+}
+
+.nav-profile-img {
+    max-height: 25px;
+    width: auto;
+}
+
+/* dataTable Expand btn */
+   table.dataTable.dtr-inline.collapsed>tbody>tr[role="row"]>td.dtr-control:before, table.dataTable.dtr-inline.collapsed>tbody>tr[role="row"]>th.dtr-control:before {
+       background-color: #17a2b8;
+   }
+
+/* mandatory field */
+.mandatory:after {
+    content: " *";
+    color: #FF1744
+}
+
+.nav-pills .nav-link:not(.active):hover {
+    color: #17a2b8;
+}
+
+[class*=sidebar-light-] .nav-treeview>.nav-item>.nav-link.active, [class*=sidebar-light-] .nav-treeview>.nav-item>.nav-link.active:hover {
+    background-color: rgba(0,0,0,.1);
+    color: #17a2b8;
+}
+
+

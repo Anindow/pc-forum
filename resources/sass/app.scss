@@ -1,0 +1,49 @@
+//// Fonts
+//@import url('https://fonts.googleapis.com/css?family=Nunito');
+//
+//// Variables
+//@import 'variables';
+//
+//// Bootstrap
+////@import '~bootstrap/scss/bootstrap';
+//
+//// Import Admin LTE CSS
+//@import '~admin-lte';
+//// Plugins
+//@import '~admin-lte/plugins/fontawesome-free/css/all.min.css';
+//@import '~admin-lte/plugins/icheck-bootstrap/icheck-bootstrap.min.css';
+//@import '~admin-lte/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css';
+//@import '~admin-lte/plugins/datatables-responsive/css/responsive.bootstrap4.min.css';
+//@import '~admin-lte/plugins/bootstrap-switch/css/bootstrap3/bootstrap-switch.min.css';
+////@import '~admin-lte/plugins/sweetalert2/sweetalert2.min.css'; // don't know why not working
+////@import '~admin-lte/plugins/jquery-validation';
+//
+//
+//// Custom css/scss are here //
+//
+///*Validation Custom CSS*/
+////.error {
+////    color: red;
+////    font-size: 12px;
+////    font-weight: 400 !important;
+////    float: right;
+////}
+////.form-control.error {
+////    border: 1px solid red;
+////}
+////::-webkit-input-placeholder {
+////    font-size: 16px !important;
+////}
+////
+////::-ms-input-placeholder {
+////    font-size: 16px !important;
+////}
+////
+////::placeholder {
+////    font-size: 16px !important;
+////}
+//
+//// dataTable Expand btn
+//table.dataTable.dtr-inline.collapsed>tbody>tr[role="row"]>td.dtr-control:before, table.dataTable.dtr-inline.collapsed>tbody>tr[role="row"]>th.dtr-control:before {
+//    background-color: #17a2b8;
+//}

@@ -1,0 +1,21 @@
+.profile-avatar-replace {
+    position: absolute;
+    left: 0;
+    top: 32px;
+    cursor: pointer;
+}
+
+.profile-avatar-replace-style {
+    height: 50px;
+    width: 50px;
+}
+
+.profile-avatar-50 {
+    height: 50px;
+    width: 50px;
+}
+
+#main-nav .nav-item .sub-menu a:active{
+    color: #fff;
+    background-color: #77B900;
+}

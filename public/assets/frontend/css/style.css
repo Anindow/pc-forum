@@ -1,0 +1,80 @@
+#main-nav {
+  background: #121921;
+  border-bottom: 10px #232F3F solid; }
+  #main-nav .logo h3 {
+    color: #77B900; }
+    #main-nav .logo h3 .comparison {
+      color: #fff; }
+  #main-nav .nav-item .nav-link {
+    color: #fff; }
+    #main-nav .nav-item .nav-link:hover {
+      color: #77B900; }
+  #main-nav .nav-item .sub-menu a:hover {
+    color: #77B900; }
+  #main-nav .login-btn a {
+    color: #fff; }
+
+.input-section {
+  background: #F7F7FF; }
+  .input-section .login {
+    padding: 0.5rem 4rem;
+    color: #232F3F;
+    border: 2px #232F3F solid;
+    border-radius: 20px;
+    text-align: center; }
+    .input-section .login:hover {
+      background: #232F3F;
+      color: #fff; }
+  .input-section .signup {
+    padding: 0.5rem 4rem;
+    color: #232F3F;
+    border: 2px #232F3F solid;
+    border-radius: 20px; }
+    .input-section .signup:hover {
+      background: #232F3F;
+      color: #fff; }
+  .input-section .searchbar {
+    background: #F7F7FF;
+    border: 2px #232F3F solid;
+    border-radius: 0 20px 20px 0; }
+    .input-section .searchbar::placeholder {
+      color: #808080; }
+  .input-section .search-button {
+    background: #232F3F;
+    color: #fff;
+    border: 1px #232F3F solid;
+    border-radius: 20px 0 0 20px;
+    padding: 0 25px; }
+
+#product .single-line {
+  width: 30%;
+  margin: auto;
+  border-bottom: 3px #77B900 solid; }
+#product .box:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); }
+
+#new-product {
+  background: #F7F7FF; }
+  #new-product .single-line {
+    width: 30%;
+    margin: auto;
+    border-bottom: 3px #77B900 solid; }
+
+#main-product {
+  margin-top: 4rem; }
+
+#product-details {
+  margin-top: 4rem; }
+
+#about {
+  margin-top: 4rem; }
+
+#contact {
+  margin-top: 4rem; }
+  #contact .single-line {
+    width: 30%;
+    margin: auto;
+    border-bottom: 3px #77B900 solid; }
+
+#main-footer {
+  background: #232F3F; }
